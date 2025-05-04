@@ -2,11 +2,8 @@
 
 ## Descripción del Proyecto
 
-ZONES es una tienda online especializada en la venta de periféricos y accesorios gaming de alta calidad. 
-Nuestro catálogo incluye una amplia selección de ratones, teclados, auriculares y otros accesorios 
-diseñados específicamente para gamers que buscan el mejor rendimiento en sus sesiones de juego.
-
-Este proyecto ha sido desarrollado utilizando WordPress como CMS principal, con un enfoque en 
+ZONES es una tienda online especializada en la venta de periféricos y accesorios gaming este es un proyecto creado desde cero
+ha sido desarrollado utilizando WordPress como CMS(Sistema de Gestión de Contenidos) principal, con un enfoque en 
 ofrecer una experiencia de compra fluida y atractiva para los entusiastas de los videojuegos.
 
 ## Características Principales
@@ -14,11 +11,9 @@ ofrecer una experiencia de compra fluida y atractiva para los entusiastas de los
 - Catálogo de productos organizado por categorías (ratones, teclados, auriculares, etc.)
 - Sistema de filtrado por precio y características
 - Carrito de compras intuitivo
-- Proceso de checkout simplificado
-- Múltiples métodos de pago (transferencia bancaria, contra reembolso)
+- Metodo de pago
 - Diseño responsive adaptado a todos los dispositivos
-- Optimización SEO para mejor posicionamiento
-
+- 
 ## Tecnologías Utilizadas
 
 ### Plataforma y Entorno
@@ -29,14 +24,10 @@ ofrecer una experiencia de compra fluida y atractiva para los entusiastas de los
 ### Tema y Personalización
 - Tema Blocksy para una base flexible y moderna
 - Personalización completa de la interfaz de usuario
-- Optimización de velocidad de carga
 
 ### Plugins Principales
 - WooCommerce para la gestión completa del e-commerce
 - Elementor para la creación y personalización de páginas
-- Yoast SEO para optimización de motores de búsqueda
-- WP Rocket para mejora de rendimiento
-- Contact Form 7 para formularios de contacto
 
 ## Proceso de Migración
 
@@ -48,46 +39,19 @@ todos los archivos del sitio.
 > **Nota:** La migración se realizó siguiendo las mejores prácticas para garantizar 
 que no hubiera pérdida de datos ni problemas de compatibilidad.
 
-## Funcionalidades de E-commerce
+#cPanel
+![migracioncPanel](https://github.com/user-attachments/assets/60909717-7a42-420c-a2a2-6dabdae962ec)
+![cPanel6](https://github.com/user-attachments/assets/4546539b-1840-4c36-a0e5-e16f7affbf60)
+![cPanel7](https://github.com/user-attachments/assets/467f8233-f5e6-415e-9549-4559269446b0)
 
-Nuestra tienda ofrece una experiencia de compra completa con las siguientes funcionalidades:
+#Interfaz
+![cuenta](https://github.com/user-attachments/assets/57db9d60-50e6-420c-bb8c-3adf35ef899c)
+![cPanel1](https://github.com/user-attachments/assets/d97556dd-9a4b-47dc-bc27-e717cea39c59)
+![cPanel2](https://github.com/user-attachments/assets/bb09638a-74de-4050-8b43-84fd779ab5cf)
+![cPanel4](https://github.com/user-attachments/assets/47bdbc60-702d-42ce-9be1-a0ce5504de84)
 
-- Visualización detallada de productos con imágenes de alta calidad
-- Sistema de valoraciones y reseñas de productos
-- Gestión de inventario en tiempo real
-- Cálculo automático de costos de envío
-- Seguimiento de pedidos
-- Integración con sistemas de pago seguros
-- Generación automática de facturas
 
-## Optimización y Rendimiento
 
-Se ha prestado especial atención a la optimización del sitio para garantizar tiempos de carga 
-rápidos y una experiencia de usuario fluida:
 
-- Optimización de imágenes para carga rápida
-- Implementación de caché para mejorar el rendimiento
-- Minificación de CSS y JavaScript
-- Estructura de base de datos optimizada
 
-## Mantenimiento y Actualizaciones
 
-Para mantener el sitio seguro y actualizado, se recomienda:
-
-- Actualizar regularmente WordPress y todos los plugins
-- Realizar copias de seguridad periódicas
-- Monitorear el rendimiento del sitio
-- Revisar y responder a las reseñas de los clientes
-- Actualizar el catálogo de productos según sea necesario
-
-## Contacto y Soporte
-
-Para cualquier consulta relacionada con este proyecto, no dude en contactar al equipo de desarrollo:
-
-- Email: soporte@zones.com
-- Teléfono: +51 XXX XXX XXX
-
-## Licencia
-
-© 2023 ZONES. Todos los derechos reservados. Este proyecto y su código fuente están protegidos 
-por derechos de autor y no pueden ser reproducidos sin autorización expresa.
